@@ -1,4 +1,4 @@
-module github.com/SparkPost/gosparkpost
+module github.com/techdroplabs/gosparkpost
 
 go 1.14
 
